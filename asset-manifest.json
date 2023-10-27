@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AdilakshmiKaviti/to-do-react-application/static/css/main.e2d5a18c.css",
-    "main.js": "/AdilakshmiKaviti/to-do-react-application/static/js/main.4513b7e9.js",
-    "static/js/787.c6a9a21d.chunk.js": "/AdilakshmiKaviti/to-do-react-application/static/js/787.c6a9a21d.chunk.js",
-    "index.html": "/AdilakshmiKaviti/to-do-react-application/index.html",
-    "main.e2d5a18c.css.map": "/AdilakshmiKaviti/to-do-react-application/static/css/main.e2d5a18c.css.map",
-    "main.4513b7e9.js.map": "/AdilakshmiKaviti/to-do-react-application/static/js/main.4513b7e9.js.map",
-    "787.c6a9a21d.chunk.js.map": "/AdilakshmiKaviti/to-do-react-application/static/js/787.c6a9a21d.chunk.js.map"
+    "main.css": "/to-do-react-application/static/css/main.e2d5a18c.css",
+    "main.js": "/to-do-react-application/static/js/main.9ca3a93e.js",
+    "static/js/787.c6a9a21d.chunk.js": "/to-do-react-application/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/to-do-react-application/index.html",
+    "main.e2d5a18c.css.map": "/to-do-react-application/static/css/main.e2d5a18c.css.map",
+    "main.9ca3a93e.js.map": "/to-do-react-application/static/js/main.9ca3a93e.js.map",
+    "787.c6a9a21d.chunk.js.map": "/to-do-react-application/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2d5a18c.css",
-    "static/js/main.4513b7e9.js"
+    "static/js/main.9ca3a93e.js"
   ]
 }
